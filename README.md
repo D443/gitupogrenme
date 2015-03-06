@@ -1,0 +1,2 @@
+# gitupogrenme
+dosya da eklenebiliyomu
